@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins");
+
+@font-face {
+  font-family: "Poppins";
+  src: url("Poppins-Medium.otf");
+}
+
+body {
+  font-family: "poppins";
+}
+.pala {
+  font-family: "poppins";
+  font-size: 30px;
+}
+
+legend {
+  color: burlywood;
+}
+
+select:hover {
+  background-color: blanchedalmond;
+}
+
+option:hover {
+  background-color: blanchedalmond;
+}
+
+input:hover {
+  background-color: blanchedalmond;
+}
+
+textarea:hover {
+  background-color: blanchedalmond;
+}
+
+.rule {
+  margin: 0px 0px 0px 1rem;
+  font-size: 25px;
+  color: cornflowerblue;
+}
+
+.image-headers {
+  width: 100%;
+  height: auto;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-headers img {
+  width: 100%;
+  height: auto;
+}
+
+.rules {
+  padding-bottom: 1rem;
+  color: red;
+  margin: auto;
+}
+
+button a {
+  color: black;
+  font-family: "poppins";
+  text-decoration: none;
+}
+@media only screen and (min-width: 768px){
+  .wadahnih{
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 478px) and (max-width:600px){
+  .wadahnih{
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 992px){
+  .wadahnih{
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 1200px){
+  .wadahnih{
+    width: 100%;
+  }
+}
